@@ -7,7 +7,6 @@ import (
 	"os"
 	"time"
 
-	//"github.com/ssleert/ginip"
 	"github.com/ssleert/cdropp/pkg/dropper"
 	"github.com/ssleert/ginip"
 	"github.com/ssleert/memory"
