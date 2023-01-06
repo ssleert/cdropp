@@ -85,10 +85,10 @@ but config file location can be redefined with `CDROPP_CONF_PATH` environment va
 trigger = 256
 
 # time between checks in ms
-timer = 12000
+timer = 3000
 
 # strength of cache drops 1,2,3
-strength = 1
+strength = 3
 
 # debug 0,1
 debug = 0

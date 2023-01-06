@@ -19,7 +19,7 @@ var (
 	minTrigger = 256
 
 	// timer between checks in ms
-	timerBetweenChecks = time.Duration(12000)
+	timerBetweenChecks = time.Duration(3000)
 
 	// drop strength (1, 2, 3)
 	dropStrength = 3
